@@ -1,0 +1,7 @@
+[19-Jul-2013 07:10:56] PHP Warning:  Unterminated comment starting line 31 in /home3/xplore/public_html/pharmasocial.com/application/config/config.php on line 31
+[19-Jul-2013 07:10:56] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home3/xplore/public_html/pharmasocial.com/application/config/config.php on line 31
+[19-Jul-2013 07:13:58] PHP Warning:  Unterminated comment starting line 43 in /home3/xplore/public_html/pharmasocial.com/application/config/autoload.php on line 43
+[19-Jul-2013 07:13:58] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home3/xplore/public_html/pharmasocial.com/application/config/autoload.php on line 43
+[19-Jul-2013 07:20:21] PHP Fatal error:  Call to a member function view() on a non-object in /home3/xplore/public_html/pharmasocial.com/application/controllers/welcome.php on line 12
+[19-Jul-2013 07:20:33] PHP Fatal error:  Call to a member function view() on a non-object in /home3/xplore/public_html/pharmasocial.com/application/controllers/welcome.php on line 12
+[19-Jul-2013 07:20:48] PHP Fatal error:  Call to a member function view() on a non-object in /home3/xplore/public_html/pharmasocial.com/application/controllers/welcome.php on line 12
